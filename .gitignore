@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript compiled files
+*.tsbuildinfo
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional:
+.DS_Store
+.env
