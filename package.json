@@ -1,0 +1,13 @@
+{
+  "name": "slack-message-preview",
+  "version": "1.0.0",
+  "description": "A library for previewing Slack Block Kit messages in HTML",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "slack-block-builder": "^4.1.1"
+  }
+}
